@@ -50,7 +50,7 @@ I'm a Computer Systems Engineering student at Universidad Latina de Costa Rica, 
 ## 📂 Projects
 
 - **Fundación Costa Rica para los Niños — Official Website** — Designed, built, and deployed the foundation's website from scratch, live at [cr4thekids.org](https://cr4thekids.org). Sole developer for architecture, QA, and deployment. Debugged a session-handling issue affecting image uploads across a split-database setup. *(Built with React, Vite, Node.js, Express, Firebase — repo is private due to client credentials, happy to walk through the code in an interview.)*
-- [SafeViewer](https://github.com/IsaacCastronunez/safeviewer) - Mobile antivirus scanner for smartphones using three antivirus engines simultaneously. Team of 3 — I integrated and tested the VirusTotal and OPSWAT APIs, validated response consistency between both engines, and documented edge cases with Postman. (Built with .NET MAUI)
+- [SafeViewer](https://github.com/SamuelVillalobos1/safeviewer) - Mobile antivirus scanner for smartphones using three antivirus engines simultaneously. Team of 3 — I integrated and tested the VirusTotal and OPSWAT APIs, validated response consistency between both engines, and documented edge cases with Postman. (Built with .NET MAUI)
 - [TradingCards](https://github.com/Ascerola/progra-web-01-24-projectoFinal) - Web platform for trading cards where users can browse, buy, and sell cards with other collectors. (Built with React)
 
 
